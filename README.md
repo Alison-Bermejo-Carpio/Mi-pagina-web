@@ -1,4 +1,4 @@
 # Mi-pagina-web
-Mi pagina web Alison Bermejo Carpio
+Soy Alison Bermejo Carpio estudiante de la carrera de Administracion de Negocios
 # Centro de Estudios  
-Univerisdad Catolica San Pablo de la carrera de Administracionde Negocios
+Univerisdad Catolica San Pablo 
